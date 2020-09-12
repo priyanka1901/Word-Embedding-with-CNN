@@ -1,7 +1,5 @@
 # Word-Embedding-with-CNN
 
-![image](https://github.com/priyanka1901/Word-Embedding-with-CNN/blob/master/journal.pone.0231189.g008.png)
-
 # Document classification
 
 Document classification is an example of Machine learning where we classify text based on its content.
