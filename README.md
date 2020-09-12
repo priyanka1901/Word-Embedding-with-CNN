@@ -49,8 +49,6 @@ This layer can be represented as —
 
 ![keras](https://github.com/priyanka1901/Word-Embedding-with-CNN/blob/master/keras.png)
 
-Keras Embedding layer
-
 Where few important arguments are-
 
 # input_dim — 
@@ -77,8 +75,6 @@ suppose we have our dataset which contains few remarks and we need to classify t
 1 signifies that the remark is good where as 0 signifies it to be bad.
 
 ![dataset](https://github.com/priyanka1901/Word-Embedding-with-CNN/blob/master/keras1.png)
-
-Given set of data
 
 The Keras deep learning library provides some basic tools to help us prepare our text data.Text data must be encoded as numbers to be used as input or output for machine learning and deep learning models.
 
