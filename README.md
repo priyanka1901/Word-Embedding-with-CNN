@@ -1,4 +1,7 @@
+
 # Word-Embedding-with-CNN
+
+![image](https://github.com/priyanka1901/Word-Embedding-with-CNN/blob/master/text_class.png)
 
 # Document classification
 
