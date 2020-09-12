@@ -13,7 +13,7 @@ Where we do not have the class label attached to the document and we use ML algo
 
 Refer below diagram for better understanding-
 
-Image for post
+![document](https://github.com/priyanka1901/Word-Embedding-with-CNN/blob/master/text-analysis-acme2.jpg)
 Document classification
 
 # Preprocessing
